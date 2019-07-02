@@ -1,0 +1,40 @@
+#divA, #divB, #divC, #divD, #divE{
+    background-color: #999999;
+    height: 100px;
+    margin-bottom: 5px;
+}
+#divA, #divC{
+    background-color:#99ffff;
+}
+#divB{
+    min-height: 1200px;
+    background-color:#ccccff;
+
+}
+h2  {
+    width: 50%;
+    margin: 0 auto;
+    padding: 5% 0; 
+    color: white;
+    font-size: 20pt;
+}
+
+h1 {
+    margin: 5%;
+    color: #060966;
+    font-size: 18pt;
+}
+div.box{
+    width: 657px;
+    display: inline-block;
+}
+#imagem{
+    float: left;
+}
+
+h3 {
+    margin: 5%;
+    color: #060966;
+    text-align: left;
+    font-size: 14pt;
+}
